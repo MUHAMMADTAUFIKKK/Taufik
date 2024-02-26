@@ -226,7 +226,7 @@ Dalam tag `<img>` terdapat juga atribut `weith` dan `height` untuk mengatur ukur
 <Img src="gambar/walpaper.jpg" alt="logo walpaper" width="250" height="250">
 ```
 #### Hasil program
-![[IMG_20240218_145315.jpg]]
+![Gmbr](Assets/IMG_20240218_145315.jpg)
 #### Screenshot Folder HTML
 ![gmbrr](Assets/IMG_20240218_175507.jpg)
 ### Video
