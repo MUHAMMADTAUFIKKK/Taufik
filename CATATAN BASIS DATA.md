@@ -113,7 +113,7 @@ drop database [nama_database];
 drop database xi_rpl_1;
 ```
 ### Hasil
-![[Screenshot_2024-02-20-13-33-17-74_84d3000e3f4017145260f7618db1d683.jpg]]
+![gmbar](Asset/Screenshot_2024-02-20-13-33-17-74_84d3000e3f4017145260f7618db1d683.jpg)
 ### Analisis
 Kode tersebut berfungsi untuk menghapus sebuah database yg telah dibuat
 ### kesimpulan
